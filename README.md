@@ -21,19 +21,17 @@ My goal is to become a professional SOC Analyst capable of detecting, investigat
 
 I am particularly interested in SOC Operations, Threat Detection, Incident Response, SIEM, Cloud Security, and AI in Cybersecurity.
 
-Certifications & Training
+Certifications 
 
-* Google Cybersecurity Professional Certificate — Completed
-* TryHackMe Windows Fundamentals — Completed
-* TryHackMe Linux Fundamentals 1–3 — Completed
-* Networking Fundamentals — Completed
-* Network & Network Security — Completed
+* Google Cybersecurity Professional Certificate
+* Cisco Junior Cyber Analyst path way
 
 Projects
 
 * Linux Log Investigation — Hands-on investigation of Linux authentication activity, user sessions, sudo privileges, scheduled tasks, and system events.
 * Windows Failed Logon Investigation — Investigation of Windows Security Event ID 4625 and authentication activity to identify failed logon patterns.
 * Windows Persistence Investigation — Investigation of Windows startup entries and persistence mechanisms, including validation of a OneDrive startup entry.
+* Linux user permission Audit - Hands-in investigation of Linux user activity * User and group enumeration, Privilege auditing ,File permission analysis, Account security assessment, Sensitive-file protection.
 
 Skills
 
