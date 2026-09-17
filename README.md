@@ -4,7 +4,6 @@ Aspiring SOC Analyst | Linux & Windows Security • Log Analysis • Incident In
 
 I am an aspiring Security Operations Center (SOC) Analyst and Computer Science student focused on threat detection, incident investigation, security monitoring, and defensive cybersecurity.
 
-⸻
 
 About Me
 
@@ -16,15 +15,11 @@ I have hands-on experience with Windows Event Logs, Linux logs, Windows investig
 
 I learn best by doing, so I regularly build practical cybersecurity projects and document my investigations on GitHub.
 
-⸻
-
 Career Objective
 
 My goal is to become a professional SOC Analyst capable of detecting, investigating, and responding to cyber threats in real-world security environments.
 
 I am particularly interested in SOC Operations, Threat Detection, Incident Response, SIEM, Cloud Security, and AI in Cybersecurity.
-
-⸻
 
 Certifications & Training
 
@@ -34,15 +29,11 @@ Certifications & Training
 * Networking Fundamentals — Completed
 * Network & Network Security — Completed
 
-⸻
-
 Projects
 
 * Linux Log Investigation — Hands-on investigation of Linux authentication activity, user sessions, sudo privileges, scheduled tasks, and system events.
 * Windows Failed Logon Investigation — Investigation of Windows Security Event ID 4625 and authentication activity to identify failed logon patterns.
 * Windows Persistence Investigation — Investigation of Windows startup entries and persistence mechanisms, including validation of a OneDrive startup entry.
-
-⸻
 
 Skills
 
@@ -82,7 +73,5 @@ My Learning Philosophy
 Learn. Build. Investigate. Document. Improve.
 
 I believe cybersecurity skills are built through consistent hands-on practice, not just theory.
-
-⸻
 
 📫 Reach me at: williamsboluwatife2020@gmail.com
